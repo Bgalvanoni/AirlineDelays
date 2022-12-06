@@ -1,0 +1,58 @@
+
+body{
+	background: #F9F6EE;
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.sitebanner{
+	font-family: Times New Roman, sans-serif; 
+font-weight: bold;
+font-size: 30px;
+background-color: #F9F6EE;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+
+.Logo{
+	height:800px;
+	width: 800px;
+}
+.byline{
+	font-size: 12px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+.storyheader{
+	
+	color: #36454F;
+	font-family: Arial, sans-serif;
+	background-color: #F9F6EE;
+	font-size: 16px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.story-copy{
+	color: black;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+img{
+	width: 700px;
+	height: 400px;
+}
+.Header{
+	font-size: 10px;
+	font-style: italic;
+}
+
+.footer{
+	font-size: 12px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
